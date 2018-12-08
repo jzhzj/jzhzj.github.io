@@ -3,6 +3,7 @@ title: "Introduction to Distributed Systems"
 date: 2018-12-7
 tags: [Distributed Systems, Network]
 header:
+  teaser: "/images/Intro_to_distributed_systems/intro_header.jpg"
   image: "/images/Intro_to_distributed_systems/intro_header.jpg"
 excerpt: "Distributed Systems, Networks"
 ---
