@@ -7,7 +7,6 @@ header:
   image: "/images/Intro_to_distributed_systems/intro_header.jpg"
 ---
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
