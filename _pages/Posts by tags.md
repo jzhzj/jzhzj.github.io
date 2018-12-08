@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /dis-sys/
-title: "Distributed Systems Posts by Tags"
+permalink: /posts-by-tags/
+title: "Posts by Tags"
 author_profile: true
 header:
-  image: "/images/Intro_to_distributed_systems/intro_header.jpg"
+  image: "/images/posts_by_tags.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

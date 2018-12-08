@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Distributed Systems"
-    url: /dis-sys/
+  - title: "Posts by tags"
+    url: /posts-by-tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
